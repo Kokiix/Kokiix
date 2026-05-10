@@ -1,16 +1,14 @@
-## Hi there 👋
+I make stuff :D
 
-<!--
-**Kokiix/Kokiix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I use AI occasionally for debugging or asking questions. I generally do not write code with AI.
 
-Here are some ideas to get you started:
+# Modding
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## STRAFTAT
+
+- [straftat_koki_weapons](https://github.com/Kokiix/straftat_koki_weapons)
+- [straftat_sudden_death](https://github.com/Kokiix/straftat_sudden_death)
+
+## Rift of the Necrodancer
+
+- [CustomTrackFCLabels](https://github.com/Kokiix/CustomTrackFCLabels)
