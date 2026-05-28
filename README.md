@@ -16,7 +16,3 @@ Message me at `zkoki` on Discord for mod requests or feedback :)
 ## Rift of the Necrodancer
 
 - [CustomTrackFCLabels](https://github.com/Kokiix/CustomTrackFCLabels)
-
-## A Dance of Fire and Ice
-
-- [EvilCoop](https://github.com/Kokiix/ADOFAI_EvilCoop)
