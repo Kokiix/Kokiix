@@ -2,7 +2,9 @@ I make stuff :D
 
 I use AI occasionally for debugging or asking questions. I generally do not write code with AI.
 
-# Modding
+# Major Mods
+
+Message me at `zkoki` on Discord for mod requests or feedback :)
 
 ## STRAFTAT
 
