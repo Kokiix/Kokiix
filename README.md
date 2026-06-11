@@ -12,7 +12,3 @@ Message me at `zkoki` on Discord for mod requests or feedback :)
 - [straftat_tweaks](https://github.com/Kokiix/straftat_tweaks)
 - [straftat_koki_weapons](https://github.com/Kokiix/straftat_koki_weapons)
 - [straftat_sudden_death](https://github.com/Kokiix/straftat_sudden_death)
-
-## Rift of the Necrodancer
-
-- [CustomTrackFCLabels](https://github.com/Kokiix/CustomTrackFCLabels)
