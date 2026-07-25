@@ -4,6 +4,4 @@ I use AI occasionally for debugging or asking questions. I generally do not writ
 
 `zkoki` on Discord
 
-# Unity Modding
-
 **STRAFTAT**: https://thunderstore.io/c/straftat/p/koki/
