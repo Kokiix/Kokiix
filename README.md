@@ -1,6 +1,6 @@
 I make stuff :D
 
-I use AI occasionally for debugging or asking questions. I generally do not write code with AI.
+My only current use of LLMs is as glorified(?) search engines.
 
 `zkoki` on Discord
 
